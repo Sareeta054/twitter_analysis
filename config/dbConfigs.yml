@@ -1,0 +1,14 @@
+authentication:
+  user: 'tsaUser'
+  pwd: 'tsa@123'
+  authSource: 'tsa'
+  authMechanism: 'SCRAM-SHA-256'
+
+
+database:
+  dbHost: '192.168.50.125'
+  dbPort: 27017
+  dbName: 'tsa'
+  collections:
+    twitter: 'tweets'
+    reddit: 'reddit_posts'

@@ -1,0 +1,22 @@
+# FOR REDDIT
+# ==================================
+reddit:
+  subreddits: 
+  - 'Minneapolis'
+  - 'Politics'
+  keywords: 
+  - 'Amy' 
+  - 'Klobuchar'
+  - 'Ralph'
+  - 'Kaehler'
+
+# ==================================
+# FOR TWITTER
+# ==================================
+
+twitter:
+  handle:
+  - 'Amy' 
+  - 'Klobuchar'
+  - 'Ralph'
+  - 'Kaehler'

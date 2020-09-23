@@ -1,0 +1,21 @@
+selected_classifier: NaiveBayes
+
+
+# inorder to be classified as +ve or -ve the probability must be at least this threshold
+# if neither +ve or -ve probability has reached the threshold then it is neutral classification
+classification_threshold: 0.6
+
+
+available_classifiers:
+  - NaiveBayes
+  - BERT
+
+  
+models_folder: models
+
+
+model_saved_names:
+  NaiveBayes: naiveBayesModel.pkl
+  BERT: predictor
+
+# model_server_url: 'predictor'

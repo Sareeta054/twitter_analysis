@@ -1,0 +1,8 @@
+env/
+.vscode/
+__pycache__
+.pytest_cache
+classify/models/predictor
+classify/models/predictor.preproc
+node_modules/
+models/

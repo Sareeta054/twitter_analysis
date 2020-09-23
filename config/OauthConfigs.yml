@@ -1,0 +1,15 @@
+# FOR TWITTER
+# ==================================
+twitter:
+  consumer_key : 'EA5FyizHAsoHZy85w6FEbfQcy' 
+  consumer_secret : 'vjf7FEW2cFnNKjwTImt48IOJ28fED4WRdWQDuC46ra6tNbX8oG' 
+  access_key : '1171873060640763904-vz8j3Y5QFZzEUiZRFXYsIYWw4oKNJB' 
+  access_secret : 'ita8IMV42Pf6imDwVTZgGJqtFQWrgz1U7213HgqRnsLS6'
+# ==================================
+# For REDDIT
+# ==================================
+reddit:
+  client_id: 'zMSzNGC8iBad1Q'
+  client_secret: '8lb0H2iq8BSlWj2g5u9FoDFsm20'
+  user_agent: 'api tutorial'
+# ==================================

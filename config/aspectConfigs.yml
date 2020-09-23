@@ -1,0 +1,27 @@
+# do you want to retrieve latest understanding of related words
+# or you want to finetune one and never bother updating it
+related_words: Static # [Dynamic / Static]
+
+
+
+# related_words_json is static so it never updates
+# but it can be fine tuned manually
+# whereas related_words_cache is the cache of latest fetch which 
+# gets updated automatically
+related_words_json: relatedWords_static.json
+related_words_cache: relatedWords_cache.pkl 
+
+
+
+
+# cache time out in hours
+# if change_related_words_time_and_again = True
+cache_time_out: 5
+
+
+
+aspects:
+  - immigration
+  - jobs
+  - education
+  - health care

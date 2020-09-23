@@ -1,0 +1,18 @@
+{
+  "name": "sentence_gen",
+  "version": "1.0.0",
+  "description": "generate sentences containing the keyword for aspect based sentiment analysis",
+  "main": "sentenceExtractor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordhippo"
+  ],
+  "author": "Bipin Oli",
+  "license": "ISC",
+  "dependencies": {
+    "wordhippo": "0.0.2",
+    "yaml": "^1.7.2"
+  }
+}
